@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Faashion Blogg 👋</ h1>
 
-<p>
+
     A Codeacademy Project
-< /p>
+
 
 
 
